@@ -1,0 +1,44 @@
+body{
+	background-color: #EEE;
+	border: 1px solid white;
+}
+#main{
+		margin: 100px auto;
+		width: 1002px;
+		border: 5px dotted green;
+		background: plum;
+}
+#header{
+	
+	border-radius: 10px;
+	margin: 1px;
+}
+#header h2{
+	padding-top: 10px;
+	font: bold 40px/40px 'Tangerine', serif;
+	text-align: center;
+}
+#quote-text{
+	margin: 5px 50px;
+	font: italic 20px/20px "Comic Sans MS", cursive, sans-serif;
+	color: olive;
+}
+#attribution{
+	font: italic 15px/15px sans-serif;
+	text-align: right;
+	margin-right: 50px;
+}
+#middle{
+	margin: 10px;
+	text-align: center;
+	font: 15px/15px sans-serif;
+}
+button{
+	background: #EEE;	
+}
+#foot{
+
+	text-align: center;
+	font: 10px/10px sans-serif;
+}
+
